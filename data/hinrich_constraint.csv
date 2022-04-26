@@ -1,0 +1,36 @@
+﻿Constraint,Group,Mean,SD
+Waterfowl Hunting Skills,Frequent,0.53,0.88
+Land Access/Permissions,Frequent,2.01,1.40
+Other Hunters,Frequent,2.11,1.29
+Travel,Frequent,1.65,1.20
+Social,Frequent,0.69,1.06
+Waterfowl Populations,Frequent,1.23,1.17
+Views of Others,Frequent,0.22,0.62
+Waterfowl Hunting Skills,Sporadic,0.93,1.08
+Land Access/Permissions,Sporadic,2.16,1.37
+Other Hunters,Sporadic,1.99,1.29
+Travel,Sporadic,1.80,1.22
+Social,Sporadic,1.10,1.27
+Waterfowl Populations,Sporadic,1.41,1.21
+Views of Others,Sporadic,0.24,0.64
+Waterfowl Hunting Skills,Dissociated,0.92,1.09
+Land Access/Permissions,Dissociated,2.08,1.42
+Other Hunters,Dissociated,1.93,1.33
+Travel,Dissociated,1.83,1.29
+Social,Dissociated,1.36,1.39
+Waterfowl Populations,Dissociated,1.32,1.22
+Views of Others,Dissociated,0.27,0.72
+Waterfowl Hunting Skills,Hunter,1.39,1.31
+Land Access/Permissions,Hunter,1.91,1.46
+Other Hunters,Hunter,1.68,1.38
+Travel,Hunter,1.50,1.30
+Social,Hunter,1.62,1.50
+Waterfowl Populations,Hunter,1.36,1.30
+Views of Others,Hunter,0.34,0.83
+Waterfowl Hunting Skills,Angler,1.51,1.46
+Land Access/Permissions,Angler,1.53,1.48
+Other Hunters,Angler,1.34,1.39
+Travel,Angler,1.12,1.28
+Social,Angler,1.41,1.51
+Waterfowl Populations,Angler,1.19,1.33
+Views of Others,Angler,0.48,1.02
