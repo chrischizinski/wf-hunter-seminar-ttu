@@ -80,6 +80,25 @@ theme_update(panel.grid = element_blank(),
 
 ```
 
+```{r metathis, echo=FALSE}
+library(metathis)
+meta() %>%
+  meta_general(
+    description = "Human dimensions assessments on the fall of waterfowl hunting in the US and what can be done.",
+    generator = "xaringan and remark.js"
+  ) %>% 
+  meta_name("github-repo" = "chrischizinski/wf-hunter-seminar-ttu") %>% 
+  meta_social(
+    title = "Human dimensions assessments on the fall of waterfowl hunting in the US and what can be done.",
+    url = "https://chrischizinski.github.io/wf-hunter-seminar-ttu/",
+    image = "https://github.com/chrischizinski/wf-hunter-seminar-ttu/blob/aaff49c48a074c9add6734f1278d69e43b44ca89/img/share-card.png",
+    image_alt = "The first slide of the presentation.",
+    og_type = "website",
+    og_author = "Christopher Chizinski",
+    twitter_card_type = "summary_large_image",
+    twitter_creator = "@chrischizinski"
+  )
+```
 background-image: url('img/Collaborators.png')
 background-size: 80%
 background-position: 50% 80%
