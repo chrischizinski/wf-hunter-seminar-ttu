@@ -1,13 +1,12 @@
 ---
 title: "The decline of waterfowl hunters in the United States"
-subtitle: "Human dimensions assessments on why and what can be done."
 author: 
   - "Christopher Chizinski"
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
-    css: [xaringan-themer.css, custom.css]
     self_contained: true
+    css: [xaringan-themer.css, custom.css]
     nature:
       slideNumberFormat: "%current%"
       highlightStyle: github
@@ -125,7 +124,7 @@ background-position: 50% 80%
 ---
 
 ```{r bpopandStamps}
-duckBpop <- read_csv("data/totalBpop.csv", col_types = c("n","n","n")) 
+duckBpop <- read_csv("data/totalBpop.csv", col_types =c("n","n","n")) 
 
 duckstamps <- read_csv("data/Stamp-Sales-Over-the-Years.csv") 
 
@@ -268,7 +267,7 @@ background-size: 65%
 ## Modeling takeaways::DU membership
 
 ```{r betacoeffs}
-betaCoefs <- read_csv("data/graham_betas.csv")
+betaCoefs <- read_csv("data/graham_betas.csv") 
 
 data_add <- data.frame(Parameter = c("Retention", "Retention", "Purchase", "Purchase"), Covariate = c("class 2", "class 8"), beta = c(0.33, 1.24, 0.50, 1.94))
 
@@ -479,6 +478,20 @@ background-image: url('img/firstSeason.png')
 background-size: 100%
 
 ## Two-tier::first-year takeaways
+---
+## Final points
+
+- Individuals that participate in wildlife-based recreation do so for similar reasons
+
+- No one "strong" reason why people are constrained in recreating
+  - Likely the combination of a bunch of small things
+  
+- Waterfowl management is unique in the social-ecological approach to addressing this problem
+  - "Experiments" may lead to new insights
+
+- Addressing funding for conservation is an increasing worry.
+  - Continued work will be required to address funding wildlife management and conservation
+  - R3 will likely be only part of the solution
 ---
 class: center, middle
 
