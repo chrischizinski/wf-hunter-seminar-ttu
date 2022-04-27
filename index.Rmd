@@ -35,7 +35,6 @@ library(ggtext)
 library(flipbookr)
 library(xaringanthemer)
 
-
 ```
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
@@ -68,6 +67,7 @@ style_duo(
 
 xaringanExtra::use_xaringan_extra(c("tile_view",  "tachyons"))
 xaringanExtra::use_extra_styles()
+xaringanExtra::use_share_again()
 
 theme_set(theme_xaringan())
 
