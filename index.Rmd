@@ -91,7 +91,7 @@ meta() %>%
   meta_social(
     title = "Human dimensions assessments on the fall of waterfowl hunting in the US and what can be done.",
     url = "https://chrischizinski.github.io/wf-hunter-seminar-ttu/",
-    image = "https://github.com/chrischizinski/wf-hunter-seminar-ttu/blob/aaff49c48a074c9add6734f1278d69e43b44ca89/img/share-card.png",
+    image = "https://chrischizinski.github.io/wf-hunter-seminar-ttu/img/share-card.png",
     image_alt = "The first slide of the presentation.",
     og_type = "website",
     og_author = "Christopher Chizinski",
