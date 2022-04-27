@@ -518,6 +518,6 @@ This research was supported by several Federal Aid in Sport Fish and Wildlife Re
 <br>
 <br>
 <br>
-.red[cchizinski2@unl.edu] | .red[humandimensions.unl.edu]
+[.red[cchizinski2[at]unl.edu]](mailto:cchizinski2@unl.edu) | [.red[humandimensions.unl.edu]](https://humandimensions.unl.edu/)
 
 
