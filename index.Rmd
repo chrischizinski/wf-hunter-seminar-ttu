@@ -2,7 +2,7 @@
 title: "The decline of waterfowl hunters in the United States"
 author: 
   - "Christopher Chizinski"
-date: '`r Sys.Date()`'
+date: '2022-04-22'
 output:
   xaringan::moon_reader:
     self_contained: true
